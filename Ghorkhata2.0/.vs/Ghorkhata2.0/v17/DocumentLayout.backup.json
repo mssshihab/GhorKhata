@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|d:\\programming language\\c#\\visual studio\\project\\ghorkhata2.0\\ghorkhata2.0\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|d:\\programming language\\c#\\visual studio\\project\\ghorkhata2.0\\ghorkhata2.0\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\ghorkhata2.0\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\ghorkhata2.0\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\ghorkhata2.0\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\ghorkhata2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2186FE80-E1F8-444B-AC1F-B35690C06234}|Ghorkhata2.0\\Ghorkhata2.0.csproj|solutionrelative:ghorkhata2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form5.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form5.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form5.cs",
+              "RelativeToolTip": "Ghorkhata2.0\\Form5.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:09:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form5.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form5.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form5.cs [Design]",
+              "RelativeToolTip": "Ghorkhata2.0\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:58:26.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form3.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form3.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form3.cs",
+              "RelativeToolTip": "Ghorkhata2.0\\Form3.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAawGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:17:30.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form3.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form3.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form3.cs [Design]",
+              "RelativeToolTip": "Ghorkhata2.0\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T20:11:16.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form2.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form2.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form2.cs [Design]",
+              "RelativeToolTip": "Ghorkhata2.0\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:43:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Ghorkhata2.0\\Form1.cs",
+              "ToolTip": "D:\\Programming Language\\C#\\Visual Studio\\Project\\Ghorkhata2.0\\Ghorkhata2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "Ghorkhata2.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:25:07.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
